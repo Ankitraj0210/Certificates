@@ -1,0 +1,24 @@
+https://www.youracclaim.com/badges/e14f8ff3-88a7-4a0f-a591-26bcfff86e46/public_url
+
+
+Applied AI with DeepLearning
+Issued by Coursera
+Authorized by IBM
+
+This badge earner understands how DeepLearning Neural 
+Networks work. The individual understands different 
+state-of-the-art DeepLearning frameworks. The earner 
+can also apply their knowledge on different industry 
+relevant tasks. Finally, they know how to scale the 
+neural networks on data parallel frameworks like 
+Apache Spark and GPUs.
+
+Skills:-
+
+Artificial Intelligence
+Computer Vision
+Data Science
+DeepLearning
+Internet Of Things
+Neural Networks
+TensorFLow

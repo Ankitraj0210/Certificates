@@ -1,0 +1,17 @@
+https://www.youracclaim.com/badges/ad8cc04b-e7f8-47a3-b379-1048901977bf/public_url
+
+Open Source Tools for Data Science
+Issued by Coursera
+Authorized by IBM
+
+This badge earner has demonstrated their skill and understanding 
+of how popular data science tools such as the Jupyter Notebook, RStudio, 
+Zeppelin and Watson Studio are used, as well as the advantages and 
+disadvantages of each tool.
+
+Skills:-
+
+Jupyter
+RStudio
+Watson Studio
+Zeppelin

@@ -1,0 +1,25 @@
+https://www.youracclaim.com/badges/87d851de-2d67-48f4-9a88-1fe100813d9d/public_url
+
+Fundamentals of Scalable Data Science
+Issued by Coursera
+Authorized by IBM
+
+This badge earner has proven a deep understanding of 
+massive parallel data processing on ApacheSpark. They 
+have mastered low-level functional programming using 
+python on the Resilient Distributed Dataset (RDD) API 
+and mastered relational data processing using Apache 
+SparkSQL & the DataFrame API. Earners understand how 
+data processing & machine learning can be parallelized 
+using scale-out clusters, & can compute statistical 
+measures, integrate & transform data, & create advanced 
+visualizations.
+
+Skills:-
+
+Apache Spark
+Data Engineer
+Data Science
+Descriptive Statistics
+Functional Programming
+Internet Of Things

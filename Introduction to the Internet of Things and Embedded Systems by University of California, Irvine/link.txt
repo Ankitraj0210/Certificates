@@ -1,0 +1,20 @@
+https://coursera.org/share/f9ab858762932ec7f7c358f633f96e52
+
+
+
+About this Course
+
+Taught by: Ian Harris
+University of California, Irvine
+
+The explosive growth of the “Internet of Things” is changing our 
+world and the rapid drop in price for typical IoT components is 
+allowing people to innovate new designs and products at home. In 
+this first class in the specialization you will learn the importance 
+of IoT in society, the current components of typical IoT devices and 
+trends for the future. IoT design considerations, constraints and 
+interfacing between the physical world and your device will also be covered. 
+You will also learn how to make design trade-offs between hardware and software. 
+We'll also cover key components of networking to ensure that students understand 
+how to connect their device to the Internet. 
+Please note that this course does not include discussion forums.

@@ -1,0 +1,21 @@
+https://www.youracclaim.com/badges/0a16c508-fb33-450c-8c8c-a04e967db43c/public_url
+
+Data Science Orientation
+Issued by Coursera
+Authorized by IBM
+
+
+This badge earner has a good understanding of why data science, 
+artificial intelligence (AI) and machine learning are revolutionizing 
+the way people do business and research around the world. 
+They have general knowledge on what data science is today.
+
+
+Skills:-
+
+AI
+Artificial Intelligence
+Critical Listening
+Critical Reading
+Data Science
+Machine Learning

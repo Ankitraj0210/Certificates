@@ -1,0 +1,22 @@
+https://coursera.org/share/abfc8e1bc755524a81a4b6192e0f1014
+
+About this Course
+
+Taught by: Google Cloud Training
+Google Cloud
+
+By enrolling in this specialization you agree to the Qwiklabs 
+Terms of Service as set out in the FAQ and located at: 
+https://qwiklabs.com/terms_of_service <<<
+
+Welcome to the Coursera course, Industrial Internet of Things (IoT)
+on Google Cloud Platform (GCP) brought to you by the Google Cloud
+team. I’m Catherine Gamboa and I’m going to be your guide.
+
+This course covers the entire Industrial IoT network architecture
+from sensors and devices to analysis. The course discusses sensors and 
+devices but the focus is on the cloud side.  You'll learn about the importance 
+of scaling, device communication, and processing streaming data. The course uses 
+simulated devices in the labs to allow you to concentrate on learning the cloud side of IIoT.  
+The course is a little different than most Coursera courses because there is very little video. 
+Most of the learning is done with short readings, quizzes, and labs.  

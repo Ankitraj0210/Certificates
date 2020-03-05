@@ -1,0 +1,26 @@
+https://www.youracclaim.com/badges/6e301e6f-ec7a-4b96-91ba-122ea4946300/public_url
+
+Cloud Core
+Issued by IBM
+
+This badge holder understands the basics of cloud technology and is able to 
+describe cloud platforms and models including IaaS, PaaS, SaaS, Public, 
+Private and Hybrid Multi clouds. The badge earner is familiar with essentials 
+of cloud applications and terms like Virtualization, VMs, Containers, Object Storage, 
+Microservices, Serverless, Cloud Native, and DevOps. The individual has also gained 
+hands-on experience at creating a Cloud account and provisioning services on IBM Cloud.
+
+Skills:-
+
+Architect
+Cloud
+Cloud Native
+Container
+Developer
+DevOps
+Hybrid
+IaaS
+IBM Cloud
+Multicloud
+PaaS
+SaaS
